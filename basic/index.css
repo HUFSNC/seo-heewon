@@ -1,0 +1,20 @@
+#title {
+  color: red;
+}
+
+#x {
+  width: 100px;
+}
+
+#y {
+  width: 100px;
+}
+
+#result {
+  width: 200px;
+}
+
+.box:hover {
+  width: 100px;
+  background-color: black;
+}
